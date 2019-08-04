@@ -2,6 +2,8 @@
 
 Blazing fast application coded by AppSeed in JAMstack pattern on top of Hyperbolic Pixelarity design.
 
+![JAMstack Hyperbolic - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-hyperbolic-intro.gif?raw=true)
+
 ## License
 
 This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
