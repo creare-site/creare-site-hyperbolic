@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Hyperbolic demo](https://jamstack-hyperbolic.appseed.us/)
- - [Hyperbolic](https://html5up.net/fractal) - the design provided by Pixelarity 
+
+- [Jamstack Hyperbolic demo](https://jamstack-hyperbolic.appseed.us/)
+- [Hyperbolic](https://html5up.net/fractal) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-hyperbolic.git`
 - change directory to `priv-jamstack-hyperbolic`
 - `yarn` - install deps
@@ -32,6 +33,7 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## JAMstack related Resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
