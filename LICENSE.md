@@ -1,13 +1,14 @@
-## CCA 3.0 License
+## Developer License
 
 > Copyright (c) 2019 - present AppSeed
 
-This app is licensed under the **Creative Commons Attribution 3.0 License**, which means:
+This app is licensed under the **Developer License**, which means you need to buy a license to use the product for any kind of projects:
 
-- Use them for personal stuff
-- Use them for commercial stuff
+- Personal stuff
+- Commercial stuff
 - Change them however you like
-- Preserve the footer credit ©AppSeed
+
+To use this product please access the [license page](https://appseed.us/pricing)
 
 ---
-Made with ♥ by [AppSeed.us](https://appseed.us)
+@[AppSeed.us](https://appseed.us) - 
