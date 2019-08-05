@@ -11,4 +11,4 @@ This app is licensed under the **Developer License**, which means you need to bu
 To use this product please access the [license page](https://appseed.us/pricing)
 
 ---
-@[AppSeed.us](https://appseed.us) - 
+@[AppSeed.us](https://appseed.us) - all rights reserved.
