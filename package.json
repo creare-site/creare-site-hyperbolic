@@ -1,7 +1,7 @@
 {
-    "name": "simpllo",
+    "name": "jamstack-hyperbolic",
     "version": "0.0.1",
-    "description": "Simpllo.com - Blazing fast, beautiful Websites",
+    "description": "JAMstack - Blazing fast app with Hyperbolic by Pixelarity",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -29,14 +29,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/simpllowebsites/simpllo.com"
+        "url": "https://github.com/app-generator/priv-jamstack-hyperbolic"
     },
     "bugs": {
-        "url": "https://github.com/simpllowebsites/simpllo.com/issues",
-        "email": "support@simpllo.com"
+        "url": "https://github.com/app-generator/priv-jamstack-hyperbolic/issues",
+        "email": "support@appseed.us"
     },
-    "author": "Simpllo.com <support@simpllo.com> (https://simpllo.com)",
-    "license": "MIT",
+    "author": "AppSeed <support@appseed.us> (https://appseed.us)",
+    "license": "Commercial",
     "private": false,
     "dependencies": {
         "bulma": "^0.7.4",

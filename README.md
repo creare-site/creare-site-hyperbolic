@@ -17,7 +17,7 @@ This is a commercial application, to use it you need to buy a license. Please ac
 ## App Links
 ---
  - [Jamstack Hyperbolic demo](https://jamstack-hyperbolic.appseed.us/)
- - [Hyperbolic](https://html5up.net/fractal) - the design provided by Pixelarity 
+ - [Hyperbolic](https://pixelarity.com/hyperbolic) - the design provided by Pixelarity 
 
 <br />
 
