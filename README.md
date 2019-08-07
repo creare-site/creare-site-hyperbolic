@@ -1,6 +1,6 @@
-# [JAMstack - Hyperbolic](https://jamstack-hyperbolic.appseed.us/)
+# [JAMstack Hyperbolic](https://appseed.us/apps/jamstack/jamstack-hyperbolic-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Hyperbolic Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Hyperbolic Pixelarity design.
 
 <br />
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Hyperbolic demo](https://jamstack-hyperbolic.appseed.us/)
- - [Hyperbolic](https://pixelarity.com/hyperbolic) - the design provided by Pixelarity 
+
+- [Jamstack Hyperbolic](https://jamstack-hyperbolic.appseed.us/) - live demo
+- [Pixelarity Hyperbolic](https://pixelarity.com/hyperbolic) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-hyperbolic.git`
 - change directory to `priv-jamstack-hyperbolic`
 - `yarn` - install deps
@@ -31,7 +32,8 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Hyperbolic](https://jamstack-hyperbolic.appseed.us/) - provided by **AppSeed**
+[JAMstack - Hyperbolic](https://appseed.us/apps/jamstack/jamstack-hyperbolic-pixelarity) - provided by **AppSeed**
