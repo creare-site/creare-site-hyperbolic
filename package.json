@@ -1,7 +1,7 @@
 {
     "name": "jamstack-hyperbolic",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with Hyperbolic by Pixelarity",
+    "description": "JAMstack - Blazing fast app with Hyperbolic design by Pixelarity",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
